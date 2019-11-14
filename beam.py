@@ -1,2 +1,4 @@
 print("Beam")
-print("Answer these questions to get started")
+print("Welcome to Beam. We're here to help.")
+print("Answer these questions to get started.")
+
